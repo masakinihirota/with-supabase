@@ -1,3 +1,4 @@
+-- テスト
 create table
   public.todos (
     id uuid not null default gen_random_uuid (),
